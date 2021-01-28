@@ -1,1 +1,1 @@
-# B.tech-Projects
+# Blood Bank Management Project using JSP
